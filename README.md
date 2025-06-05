@@ -72,4 +72,5 @@ Estou me preparando para avançar em áreas essenciais e modernas do desenvolvim
 ## 🌐 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilberto-oliveira-876298248)  
-[![Instagram](https://img.shields.io/badge
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/g7sx_)  
+📧 gilbertoliveira.segov@gmail.com

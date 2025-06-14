@@ -6,8 +6,7 @@ Tenho 20 anos e sou estudante de **Ciência da Computação** na Universidade Ve
 
 Complemento minha formação acadêmica com o curso **Full Stack da Rocketseat**, onde aprofundo meus conhecimentos em desenvolvimento web moderno, especialmente no lado do servidor. Também estou aprendendo **C** , além de estudar **inglês no CCAA** para me preparar para oportunidades internacionais.
 
-Mesmo com uma rotina intensa entre estudos e trabalho, mantenho o foco no aprendizado contínuo e em metas claras e conquistar uma **bolsa de estudos no exterior**.
-
+Mesmo com uma rotina intensa entre estudos e trabalho, mantenho o foco no aprendizado contínuo e em metas claras.
 ---
 
 ## 💻 Tecnologias que utilizo e estudo

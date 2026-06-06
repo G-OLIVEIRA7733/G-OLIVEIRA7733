@@ -1,75 +1,58 @@
 # 👨‍💻 Gilberto Oliveira
+### Desenvolvedor Back-End | Estudante de Engenharia de Software
 
-### Desenvolvedor Back-End | Estudante de Ciência da Computação
+Estudante de **Engenharia de Software** na Universidade Veiga de Almeida (UVA). Atuo como desenvolvedor com foco em **Back-End**, especialmente em **Java** e **Node.js/TypeScript**, construindo APIs robustas, seguras e escaláveis.
 
-Tenho 20 anos e sou estudante de **Ciência da Computação** na Universidade Veiga de Almeida (UVA), atualmente no 2º período. Me dedico à área de **desenvolvimento Back-End**, com foco em **JavaScript** e **Node.js**, buscando construir soluções eficientes, seguras e escaláveis.
 
-Complemento minha formação acadêmica com o curso **Full Stack da Rocketseat**, onde aprofundo meus conhecimentos em desenvolvimento web moderno, especialmente no lado do servidor. Também estou aprendendo **C** , além de estudar **inglês no CCAA** para me preparar para oportunidades internacionais.
-
-Mesmo com uma rotina intensa entre estudos e trabalho, mantenho o foco no aprendizado contínuo e em metas claras.
 ---
 
-## 💻 Tecnologias que utilizo e estudo
+## 💻 Tecnologias & Ferramentas
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![C](https://img.shields.io/badge/-C-blue?style=flat&logo=c)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
+---
 
-## 🚀 Meus principais interesses
+## 🚀 Principais Interesses
 
-- Desenvolvimento Back-End focado em performance e escalabilidade  
-- APIs REST, microsserviços e arquitetura de software moderna  
-- Testes automatizados (TDD) para garantir qualidade  
-- Estrutura de Dados, Algoritmos e otimização de código  
-- Banco de dados SQL e NoSQL (PostgreSQL, MongoDB)  
-- Versionamento com Git/GitHub e contribuições Open Source  
-- Tecnologias e ferramentas emergentes: Docker, AWS, Prisma  
-- Crescimento profissional e carreira internacional  
-- Inglês técnico e comunicação para programadores  
-- Construção de portfólio e projetos práticos  
+- Desenvolvimento Back-End com Java/Spring Boot e Node.js/TypeScript
+- APIs REST, microsserviços e arquitetura de software
+- Bancos de dados relacionais (PostgreSQL, MySQL) e ORM
+- Automações e integrações com foco em eficiência operacional
+- Segurança em aplicações e boas práticas de desenvolvimento
+- Docker, cloud (AWS) e infraestrutura escalável
+- Open Source e contribuições em comunidade
 
 ---
 
-## 💻 Tecnologias que estou dominando
+## 📦 Projetos em Destaque
 
-Atualmente, estou focado nas seguintes tecnologias e linguagens, aplicando-as em projetos e estudos práticos:
+### 🛒 [MarketFlow](https://github.com/gilberto-oliveira/marketflow)
+Sistema de ponto de venda (PDV) e controle de estoque desenvolvido em **Java** com foco em **Orientação a Objetos**. Projeto universitário com arquitetura limpa, cobertura de classes de produto, estoque, vendas e geração de relatórios.
 
-- **JavaScript**: Programação dinâmica e versátil para back-end  
-- **Node.js**: Desenvolvimento de APIs e servidores escaláveis  
-- **C**: Fundamentos de programação e lógica de código  
-- **HTML5 & CSS3**: Conhecimentos básicos para entender front-end  
-- **Git & GitHub**: Conhecimentos básicos de versionamento e colaboração  
+> `Java` · `OOP` · `POO` · `Console App`
 
 ---
 
-## 🧠 Tecnologias que pretendo estudar
+## 🎯 Metas Atuais
 
-Estou me preparando para avançar em áreas essenciais e modernas do desenvolvimento, buscando aprofundar meus conhecimentos em:
-
-- **TypeScript**: Para trazer mais segurança e escalabilidade ao JavaScript  
-- **PostgreSQL**: Banco de dados relacional robusto e amplamente utilizado  
-- **MongoDB**: Banco de dados NoSQL para aplicações flexíveis  
-- **Docker**: Containerização para facilitar deploy e desenvolvimento  
-- **Prisma**: ORM moderno para integração com bancos de dados  
-- **Jest**: Testes automatizados para garantir qualidade do código  
-- **AWS**: Computação em nuvem para infraestrutura escalável  
-
----
-
-## 🎯 Metas para 2025
-
-- Avançar no inglês, com foco em fluência para oportunidades internacionais  
-- Dominar Estruturas de Dados e Algoritmos usando JavaScript  
-- Desenvolver diversos projetos práticos para enriquecer meu portfólio  
-- Melhorar continuamente minhas habilidades como desenvolvedor Back-End  
+- Aprofundar domínio em Spring Boot e ecossistema Java empresarial
+- Evoluir em TypeScript e arquiteturas Node.js (REST + boas práticas)
+- Ampliar conhecimentos em Docker e AWS
+- Construir portfólio sólido com projetos práticos e bem documentados
+- Desenvolver fluência técnica em inglês para oportunidades internacionais
 
 ---
 
 ## 🌐 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilberto-oliveira-876298248)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/g7sx_)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilberto-oliveira-876298248)
 📧 gilbertoliveira.segov@gmail.com

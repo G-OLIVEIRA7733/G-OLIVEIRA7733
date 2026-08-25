@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/G-OLIVEIRA7733/G-OLIVEIRA7733/principal/github-banner.svg)
+![banner2](https://raw.githubusercontent.com/G-OLIVEIRA7733/G-OLIVEIRA7733/principal/github-banner.svg)
 # Gilberto Oliveira
 ### Em transição para Cybersecurity | Automação & Infraestrutura
 

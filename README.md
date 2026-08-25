@@ -1,5 +1,5 @@
-![Header](https://raw.githubusercontent.com/G-OLIVEIRA7733/G-OLIVEIRA7733/main/github-banner.svg)
-# 👨‍💻 Gilberto Oliveira
+![banner](https://raw.githubusercontent.com/G-OLIVEIRA7733/G-OLIVEIRA7733/principal/github-banner.svg)
+# Gilberto Oliveira
 ### Em transição para Cybersecurity | Automação & Infraestrutura
 
 Estudante de **Engenharia de Software** (UVA, formatura prevista 2028), migrando de automação de processos para **segurança da informação**, com foco em **Blue Team / SOC**.

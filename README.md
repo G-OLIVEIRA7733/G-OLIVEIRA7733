@@ -1,3 +1,4 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff9d&height=250&section=header&text=Gilberto%20Oliveira&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Rumo%20ao%20Blue%20Team%20%2F%20SOC&descAlignY=55&descSize=18)
 # 👨‍💻 Gilberto Oliveira
 ### Em transição para Cybersecurity | Automação & Infraestrutura
 

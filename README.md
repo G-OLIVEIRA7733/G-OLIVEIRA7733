@@ -19,7 +19,7 @@
 
 ## `$ whoami`
 
-Olá! Sou estudante de **Engenharia de Software e Sistemas na UVA**, em transição para a área de **Cybersecurity**, com foco em Blue Team, SOC, infraestrutura e redes.
+Olá! Sou estudante de **Engenharia de Software na UVA**, em transição para a área de **Cybersecurity**, com foco em Blue Team, SOC, infraestrutura e redes.
 
 Tenho experiência profissional com processos administrativos, dados sensíveis e automação de processos na SEGOV-RJ. Nesse período, desenvolvi automações que ajudaram a reduzir atividades operacionais que antes levavam semanas para aproximadamente 3 dias.
 

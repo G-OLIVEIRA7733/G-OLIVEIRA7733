@@ -1,51 +1,124 @@
-# Gilberto Oliveira
-### Em transição para Cybersecurity | Automação & Infraestrutura
 
-Estudante de **Engenharia de Software** (UVA, formatura prevista 2028), migrando de automação de processos para **segurança da informação**, com foco em **Blue Team / SOC**.
+<div align="center">
 
-No setor público (SEGOV-RJ), construí automações com **Power Automate** que reduziram processos de semanas para ~3 dias, processando mais de 1.100 registros — experiência que me levou a entender segurança, sistemas e infraestrutura na prática, não só na teoria.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:003b20,100:00ff88&height=180&section=header&text=GILBERTO%20OLIVEIRA&fontSize=38&fontColor=00ff88&animation=fadeIn&fontAlignY=35&desc=CYBERSECURITY%20%7C%20BLUE%20TEAM%20%7C%20INFRASTRUCTURE&descSize=13&descAlignY=58" width="100%" />
 
-Hoje estudo **Linux e redes** (TryHackMe – trilha Pre-Security) e monto laboratório próprio (VirtualBox + pfSense) pra fechar a base técnica necessária pra atuar em SOC.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=Hello%2C+World!+I'm+Gilberto+Oliveira;Future+Cybersecurity+Analyst;Learning+Linux%2C+Networking+%26+Python;Blue+Team+%7C+SOC+%7C+Security+Labs" />
 
----
+</div>
 
-## 🛠️ Stack & Ferramentas
+```text
+       .--.
+      |o_o |     ACCESS GRANTED
+      |:_/ |     USER: GILBERTO
+     //   \ \    ROLE: CYBERSECURITY STUDENT
+    (|     | )   STATUS: LEARNING...
+   /'\_   _/`\
+   \___)=(___/
+```
 
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![pfSense](https://img.shields.io/badge/-pfSense-212121?style=flat&logo=pfsense&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+## `$ whoami`
 
----
+Olá! Sou estudante de **Engenharia de Software e Sistemas na UVA**, em transição para a área de **Cybersecurity**, com foco em Blue Team, SOC, infraestrutura e redes.
 
-## 🎯 Foco atual
+Tenho experiência profissional com processos administrativos, dados sensíveis e automação de processos na SEGOV-RJ. Nesse período, desenvolvi automações que ajudaram a reduzir atividades operacionais que antes levavam semanas para aproximadamente 3 dias.
 
-- Fundamentos de Linux e redes (TryHackMe – rumo ao SAL1)
-- Hardening e auditoria de sistemas (script bash em desenvolvimento)
-- Home lab: VirtualBox + pfSense, simulando topologias de rede
-- Fundamentos de automação aplicados à segurança (detecção, resposta, logging)
+Atualmente, estou direcionando meus estudos para segurança da informação, administração Linux, redes e análise de logs.
 
----
+## `$ current_focus`
 
-## 📦 Projetos em destaque
+- Linux e administração de sistemas
+- Redes de computadores e protocolos
+- Fundamentos de Segurança da Informação
+- Python e Pandas para análise de dados e logs
+- Blue Team, monitoramento e fundamentos de SOC
+- Automação de processos e scripts
 
-### 🛒 [MarketFlow](https://github.com/G-OLIVEIRA7733)
-Sistema de PDV e controle de estoque em **Java**, com foco em Orientação a Objetos — arquitetura de produtos, estoque, vendas e relatórios.
-> `Java` · `POO` · `Console App`
+## `$ tech_stack`
 
-### 🤖 FolhaBot
-Automação de acompanhamento de assinatura de folha de ponto, integrando **Google Sheets + WhatsApp**. Lógica de negócio e fluxo de decisão desenhados por mim.
-> `Automação` · `Google Sheets API` · `WhatsApp`
+<div align="center">
 
-### ⚙️ Automação SEGOV-RJ
-Três fluxos em **Power Automate** para o governo do estado do RJ: extração de matrícula funcional, onboarding completo de sistemas (com log de erros), e geração de documentos personalizados via mala direta. Reduziu um processo de semanas para ~3 dias, processando 1.100+ registros.
-> `Power Automate` · `SEI` · `SIGRH` · `Ergon`
+<img src="https://skillicons.dev/icons?i=linux,bash,python,git,github,java,spring,vscode&theme=dark" />
 
----
+</div>
 
-## 🌐 Contato
+![Python](https://img.shields.io/badge/Python-Study-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=flat-square&logo=pandas&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Systems-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Networking](https://img.shields.io/badge/Networking-In%20Progress-00AEEF?style=flat-square)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-Automation-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilbertooliveira-cyber/)
-📧 gilbertoliveira.segov@gmail.com
+## `$ security_labs`
+
+Plataformas utilizadas para desenvolver habilidades práticas:
+
+- [TryHackMe](https://tryhackme.com/) — laboratórios de fundamentos de segurança e redes.
+- [Hack The Box](https://www.hackthebox.com/) — laboratórios práticos de cibersegurança.
+- [PortSwigger Web Security Academy](https://portswigger.net/web-security) — laboratórios de segurança em aplicações web.
+
+## `$ certifications_and_courses`
+
+- Cisco Networking Academy — Fundamentos de Redes.
+- Cisco Networking Academy — Fundamentos de Cibersegurança.
+- Hackers do Bem — RNP.
+- Formação técnica em Redes — Firjan SENAI.
+
+## `$ projects`
+
+### AI Log Analyzer
+<sub>EM DESENVOLVIMENTO</sub>
+
+Projeto pessoal para estudar análise de logs com Python e Pandas, explorando identificação de padrões e possíveis eventos suspeitos.
+
+### Automação de Processos — SEGOV-RJ
+
+Experiência profissional com automação de fluxos utilizando Power Automate, apoiando processos de gestão de pessoal e tratamento de informações de mais de 1.100 servidores.
+
+### FolhaBot
+<sub>CONCEITO</sub>
+
+Ideia de automação para acompanhamento de pendências e assinaturas relacionadas ao controle de ponto.
+
+## `$ experience`
+
+**SEGOV-RJ — Recursos Humanos e Automação**
+
+- Atuação com processos administrativos e financeiros.
+- Tratamento de informações funcionais e dados sensíveis.
+- Utilização de Excel para conferência e identificação de divergências.
+- Automação de processos com Power Automate.
+- Experiência com tramitação de processos no SEI.
+
+## `$ github_stats`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=G-OLIVEIRA7733&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=00ff88&icon_color=00ff88&text_color=ffffff" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-OLIVEIRA7733&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=00ff88&text_color=ffffff" />
+
+<img src="https://streak-stats.demolab.com?user=G-OLIVEIRA7733&theme=dark&hide_border=true&background=050505&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" />
+
+</div>
+
+## `$ connect`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/gilbertooliveira-cyber/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:gilbertoliveira.segov@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:003b20,100:050505&height=100&section=footer" width="100%" />
+
+**"The quieter you become, the more you are able to hear."**
+
+</div>
